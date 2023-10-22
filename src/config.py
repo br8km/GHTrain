@@ -9,3 +9,4 @@ class Config:
     dir_dat = dir_app / "data"
     dir_out = dir_app / "out"
 
+    dir_hello = "world"
